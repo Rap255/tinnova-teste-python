@@ -1,0 +1,8 @@
+django==4.1
+django-cors-headers
+django-rest-framework
+djangorestframework-simplejwt
+drf-yasg
+gunicorn
+PyJWT
+requests==2.31.0
